@@ -1,0 +1,250 @@
+ body { 
+    background-color: rgb(12, 13, 13); 
+    margin: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ .div{
+    
+    padding: 20px;
+    background-color: rgb(151, 178, 217);
+    border-radius: 30px;
+ }
+    .navbar {
+      position: sticky;
+      top: 10px;
+      background: black;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 30px;
+  
+      
+    }
+    .tag a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+   }
+
+   .tag a:hover{
+    color: #0056b3;
+    
+   }
+   
+
+    .navbar input {
+      padding: 5px;
+      width: 500px;
+      border-radius: 2cqh;
+      display: flex;
+      
+    }
+    .navbar button{
+        background-color: rgb(50, 50, 245);
+        border-radius: 10px;
+        display: flex;
+    }
+    .navbar button a{
+      color: antiquewhite;
+      text-decoration: none;
+
+    }
+    .table{
+      border-radius: 20px;
+    
+    }
+    .table h1{
+      font-size: 60px;
+      color: brown;
+    }
+    
+    .table h6{
+      word-spacing: 8px;
+      letter-spacing: 5px;
+    }
+    .table button{
+      background-color: rgb(29, 29, 146);
+      border-radius: 10px;
+    }
+    .table a{
+      color: white;
+      font-style:italic;
+      text-decoration: none;
+    }
+    .table img{
+      border-radius: 80px;
+      width: 800px;
+    }
+    .footer{
+      background-color: black;
+      color: white;
+      text-align: center;
+      border-radius: 30px;
+    }
+
+
+
+
+
+
+
+
+   
+    .divv{
+      background-image: url(applications-of-computer-programming.jpg);
+      width: 100%;
+      height: 150px;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    .divv h1 {
+      padding:right 40px;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      display: flex;
+    }
+    .divv p{
+  
+      justify-content: center;
+      text-align: center;
+      color: white;
+    }
+
+   
+     table {
+      width: 100%;
+      border: none;
+    }
+    td {
+      vertical-align: top;
+      padding: 20px;
+    }
+    .left {
+      text-align: left;
+      width: 33%;
+    }
+    .center {
+      text-align: center;
+      width: 33%;
+    }
+    .right {
+      text-align: right;
+      width: 33%;
+    }
+
+    input, textarea, button {
+      width: 90%;
+      padding: 8px;
+      margin: 5px 0;
+    }
+
+    button {
+      background: #007BFF;
+      border: none;
+      color: white;
+
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    .body3{
+      background: color #e4e0e0;
+      margin: 400px;
+      margin-top: 100px;
+    
+      
+
+
+      
+    }
+    .sing{
+      
+       justify-content: center;
+      text-align: center;
+      background-color: #ffffff;
+      border-radius: 20px;
+       border-color:gray ;
+       border: solid;
+       padding:50px ;
+    }
+    .sing h1{
+      color: blue;
+    }
+    .sing label{
+      color: rgb(61, 57, 57)
+      
+    }
+    .sing a{
+      color: bisque;
+    }
+
+
+
+
+
+
+
+
+
+
+    .product{
+      border: 3px solid;
+      border-radius: 20px;
+    }
+    .product img{
+      
+      width:80%;
+      
+      padding-top: 20px;
+      padding-bottom: 20px;
+      height: 400px;
+      padding-left: 100px;
+      background-image: none;
+      display: flex;
+    }
+    .headphone{
+      width: 100%;
+      height: 250px;
+        justify-content:space-evenly;
+         align-items:center;
+         border: 3px solid;
+          border-radius: 20px;
+      display: flex;
+    }
+    .head{
+      width: 200px;
+      height:200px;
+      border: 3px solid;
+      
+    }
+    .head img{
+      width: 200px;
+      height:200px ;
+    }
+
+
+    .watch{
+       width: 100%;
+      height: 250px;
+        justify-content:space-evenly;
+         align-items:center;
+         border: 3px solid;
+          border-radius: 20px;
+      display: flex;
+    }
+    .watch div{
+      width: 200px;
+      height:200px ;
+      border:3px solid;
+     
+
+    }
+    .watch img{
+      width: 200px;
+      height:200px ;
+    }
+
+    
